@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal N S 
+- 👋 Hi, I’m Vishal N S and pursuing MSc. Computer Science with specialisation in Machine Intelligence
 - 👀 I’m interested in Machine Learning, Data Analytics and AI in general.
 - 🌱 I’m currently learning Deep Learning, NLP , AR/VR and more.
 <!---
